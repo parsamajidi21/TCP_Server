@@ -1,5 +1,8 @@
-"Programming for ICT" working repo.
 
+
+# Programming for ICT" working repo.
+
+NOTE: MY REPOSITORY ARE second_exam & test ...
 NOTE: This code works ONLY with Linux an macOS. NO SUPPORT FOR WINDOWS
 
 HOW-TO setup your system
